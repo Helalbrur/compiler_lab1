@@ -1,0 +1,10 @@
+9
+S=ABC
+A=a
+A=Cb
+A=#
+B=c
+B=dA
+B=#
+C=e
+C=f

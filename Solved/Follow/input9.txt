@@ -1,0 +1,6 @@
+5
+S=iEtSX
+S=a
+X=eS
+X=#
+E=b

@@ -1,0 +1,6 @@
+5
+S=A
+A=aB
+A=Ad
+B=b
+C=g

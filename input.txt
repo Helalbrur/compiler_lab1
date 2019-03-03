@@ -1,0 +1,6 @@
+4
+E -> E+E
+E -> E*E
+E -> (E)
+E -> id
+(id+id)*(id)

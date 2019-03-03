@@ -1,0 +1,7 @@
+6
+S=A
+A=aBZ
+Z=dZ
+Z=#
+B=b
+C=g
