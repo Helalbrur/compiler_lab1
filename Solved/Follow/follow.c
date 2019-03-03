@@ -19,7 +19,7 @@ int main(){
 	int jm = 0,km = 0,i,choice;
 	char c, ch;
 
-	freopen("input9.txt","r+",stdin);
+	freopen("input4.txt","r+",stdin);
     scanf("%d",&count);
     getchar();
     for(ii=0;ii<count;ii++){
